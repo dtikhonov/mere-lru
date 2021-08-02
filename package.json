@@ -1,0 +1,29 @@
+{
+  "name": "mere-lru",
+  "version": "1.0.0",
+  "description": "Mere LRU Cache: simple, correct, uses Map",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [
+    "lru",
+    "cache"
+  ],
+  "author": "Dmitri Tikhonov <dtikhonov@live.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^15.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtikhonov/mere-lru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dtikhonov/mere-lru/issues"
+  },
+  "homepage": "https://github.com/dtikhonov/mere-lru#readme"
+}
